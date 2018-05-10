@@ -1,0 +1,25 @@
+body {
+    margin-top: 90px;
+    background-color: white;
+}
+
+.navbar {
+    background-color: white;
+    box-shadow: 0px 2px 5px #3292a6;
+    opacity: .9;
+}
+
+.nav-link {
+    font-size: 1.2em;
+    margin-right: 10px;
+}
+
+.overlay-blue {
+    background-color: rgb(50,146,166,.5);
+    height: 100%;
+}
+
+#showcase {
+    background-image: url("src/mountain-1.jpg");
+    background-size: cover;
+}
