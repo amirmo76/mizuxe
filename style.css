@@ -23,3 +23,18 @@ body {
     background-image: url("src/mountain-1.jpg");
     background-size: cover;
 }
+
+.no-border-radius {
+    border-radius: 0;
+}
+
+.border-mizuxe {
+    border: solid 1px #3292A6;
+}
+.bg-mizuxe {
+    background-color: #3292A6;
+}
+
+.text-mizuxe {
+    color: #3292A6;
+}
