@@ -38,3 +38,65 @@ body {
 .text-mizuxe {
     color: #3292A6;
 }
+
+.avatar {
+    border-radius: 50%;
+    margin-top: -25%;
+}
+
+.person-card:hover {
+    background-color: rgb(50,146,166,1);
+    color: white;
+}
+
+.person-card:hover i{
+    color: white;
+}
+
+.card-header {
+    background-color: inherit;
+}
+
+.person-card i {
+    font-size: 1.4em;
+    color: #3292A6;
+}
+
+.person-card .card-header {
+    border-bottom: none;
+}
+
+.label-mizuxe {
+    padding: 0;
+    margin: 0;
+    background-color: #ECEEEF;
+}
+
+.label-mizuxe i {
+    position: relative;
+    top: 23%;
+}
+
+.input-mizuxe {
+    padding: 0;
+    margin: 0;
+    border-right: none;
+}
+
+#message {
+    min-height: 200px;
+    resize: none;
+}
+
+#textarea-i {
+    top: 40%;
+}
+
+#footer {
+    background-color: #3292A6;
+}
+
+#footer .row {
+    
+    height: 300px;
+}
