@@ -99,7 +99,7 @@ body {
 }
 
 #footer .row {
-    height: 300px;
+    min-height: 300px;
 }
 
 #person-cards-row {
